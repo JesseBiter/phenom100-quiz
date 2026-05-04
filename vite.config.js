@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 // set base to '/phenom100-quiz/'
 export default defineConfig({
   plugins: [react()],
-  base: './',
+  base: 'phenom100-quiz/',
 })
